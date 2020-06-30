@@ -1,6 +1,8 @@
 body {
 	background-color: #B3B3B3;
-	margin: 2%;
+	max-width: 5000px;
+	max-height: 5000px;
+  	margin: 2% auto;
 }
 #outer-wrapper {
 	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
